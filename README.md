@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @SaharBarak, physics undergrad, software developer, and a eternal student, passionately searching for a way to translate love into quantitive means, 
-- 👀 I’m interested in science, sustainabillity, music and art, education and teaching, spreading love
-- 📫 Draw me a sheep, https://www.linkedin.com/in/sahar-barak-2074a515a/
+- 👋 Hi, I’m @SaharBarak, Software researcher, implmenting and reinventing technologies for the degovernization of planet earth. 
+- I deeply care about justice, wellfare and wellbeing, of both the humans and the planet.
+- using technology I'm aiming to deslave our society and create sustaining mechanisms powered by a well connected, cooperative and very efficient society.
+- 🍀 Most of my inspiration and knowledge comes from observing nature
+- I love kiting🏄, climbing🧗🏻‍♀️, yoga🧘‍♀️ and making music🎼
+- I love turtles 🐢 and my friends say I look like a sloth 🦥
 
 <!---
 SaharBarak/SaharBarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
